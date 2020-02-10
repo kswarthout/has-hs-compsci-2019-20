@@ -1,6 +1,8 @@
 # Turtle Circles & Rects!
 
-Use the shape classes previously defined to create functions that draw circles and rectangles using object instances
+Use the shape classes previously defined to create functions that draw circles and rectangles using object instances.
+
+![Program Output](https://github.com/kswarthout/has-hs-compsci-2019-20/blob/master/assignments/classes_and_objects/turtles_circles_and_rects/docs/output.PNG)
 
 ## `draw_rect`
 Write a function called **draw_rect** that takes Turtle and Rectangle objects and uses the Turtle to draw a rectangle on the canvas.
