@@ -26,4 +26,4 @@ Write a function named `rect_circle_overlap` that takes a Circle and a Rectangle
 
 #### Rectangle / Circle Intersection:  
 
-![Rectangle In Circle](https://github.com/kswarthout/has-hs-compsci-2019-20/master/assignments/classes_and_objects/defining_classes/docs/rect_in_circle.png)
+![Rectangle In Circle](https://github.com/kswarthout/has-hs-compsci-2019-20/blob/master/assignments/classes_and_objects/defining_classes/docs/rect_in_circle.png)
