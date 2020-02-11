@@ -38,5 +38,5 @@ Follow the instructions below (in-order) to create a playing card program.
 3. Follow the instructions in [Hand.md](Hand.md) to implement the `Hand` class
 4. Follow the instructions in [Extend_Deck_Behavior.md](Extend_Deck_Behavior.md) to add additional functionality to the `Hand` class
 
-## Implement The Program
+### Implement The Program
 Follow the instructions in (poker_hand.md)[poker_hand.md] to implement a poker playing program.
