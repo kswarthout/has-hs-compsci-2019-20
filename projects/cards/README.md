@@ -33,10 +33,10 @@ King|13
 Follow the instructions below (in-order) to create a playing card program.
 
 ### Implement Classes
-1. Follow the instructions in [Card.md](Card.md) to implement the `Card` class
-2. Follow the instructions in [Deck.md](Deck.md) to implement the `Deck` class
-3. Follow the instructions in [Hand.md](Hand.md) to implement the `Hand` class
-4. Follow the instructions in [Extend_Deck_Behavior.md](Extend_Deck_Behavior.md) to add additional functionality to the `Hand` class
+1. Follow the instructions in [card.md](card.md) to implement the `Card` class
+2. Follow the instructions in [deck.md](deck.md) to implement the `Deck` class
+3. Follow the instructions in [hand.md](hand.md) to implement the `Hand` class
+4. Follow the instructions in [extend_deck.md](extend_deck.md) to add additional functionality to the `Hand` class
 
 ### Implement The Program
 Follow the instructions in [poker_hand.md](poker_hand.md) to implement a poker playing program.
