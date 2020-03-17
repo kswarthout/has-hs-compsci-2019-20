@@ -1,5 +1,6 @@
 from tkinter import *
 
+
 class Status(Label):
 
     def __init__(self, parent, *args, **kwargs):
@@ -12,3 +13,6 @@ class Status(Label):
 
     def set_to_welcome(self):
         self.configure(text='Welcome! Click "New Game" to begin.')
+
+    def set_to_winner(self, player):
+        self.configure(text='Player {:d} Wins!'.format(player))
